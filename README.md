@@ -5,7 +5,7 @@ Bonjour, my name is Andrey.</h1>
 
 Tech Stack:
 
-- Python, Django, Bootstrap, SQLite, REST API
+- Python, Django, Bootstrap, SQLite, PostgreSQL, REST API, Nginx, Docker, Ubuntu
 
 Tools:
 
