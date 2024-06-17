@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Bonjour, my name is Andrey.</h1>
 
-<text alight="center">I am currently a student of the 55th cohort of Yandex Practicum. Now I am actively learning Python and here you can see my progress:^)</text>
+<text alight="center">I am currently working as a python Backend developer.</text>
 
 Tech Stack:
 
